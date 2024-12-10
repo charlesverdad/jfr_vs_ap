@@ -1,0 +1,4 @@
+**/*.class
+outputs/*
+output.txt
+
